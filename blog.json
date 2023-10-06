@@ -4,6 +4,11 @@
     "destination": "/home",
     "btn_txt": "Home"
   },
+  "pageDetailsInfo": {
+    "sec_title": "Blog Details",
+    "destination": "/blogs",
+    "btn_txt": "Back"
+  },
   "suggestArticles": ["popular", "trending", "featured"],
   "articlesItem": [
     {
