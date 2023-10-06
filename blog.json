@@ -1,0 +1,361 @@
+{
+  "pageInfo": {
+    "sec_title": "Blogs",
+    "destination": "/home",
+    "btn_txt": "Home"
+  },
+  "suggestArticles": ["popular", "trending", "featured"],
+  "articlesItem": [
+    {
+      "id": 1,
+      "showCommentsTooltip": true,
+      "showPremiumTooltip": true,
+      "showMembersTooltip": true,
+      "showCarouselItem": true,
+      "tooltipTitles": {
+        "comments": "Comments",
+        "premium": "Premium Content",
+        "members": "Members Content"
+      },
+      "tooltipLinks": {
+        "comments": "https://www.facebook.com/",
+        "premium": "https://www.youtube.com/",
+        "members": "https://www.github.com/"
+      },
+      "views": "212",
+      "commentsCount": "5",
+      "thumbImageLink": "https://ghost.estudiopatagon.com/groovy/content/images/size/w450h550/2022/09/1920-love-to-drink-coffee-to-increase-energy-4.jpg",
+      "imageAlt": "Blog 1",
+      "tags": ["Travel"],
+      "tagsLinks": ["https://www.linkend.com/"],
+      "date": "September 25, 2022",
+      "minRead": "1 min read",
+      "mainTitle": "Building your audience with subscriber signups",
+      "mainText": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam beatae debitis deleniti distinctio dolor fugiat inventore, iure labore, magnam magni mollitia officiis optio qui quia quisquam sed tempora, voluptate voluptatibus! Ad dolor facere ipsum nisi omnis optio quasi vero? Dicta, doloremque, officiis? Architecto, delectus deleniti eius necessitatibus porro quibusdam sapiente?",
+      "continueReadingText": "Continue Reading...",
+      "continueReadingLink": "https://www.instagram.com/",
+      "authorImage": "https://i.postimg.cc/rpHG1rqt/aveter.png",
+      "authorName": "Sabur Ali",
+      "authorLink": "/about-me",
+      "suggestArticleCategories": ["popular"],
+      "comments": [
+        {
+          "id": "1",
+          "body": "First comment - 1",
+          "username": "Jack",
+          "userId": "1",
+          "parentId": null,
+          "createdAt": "2021-08-16T23:00:33.010+02:00"
+        },
+        {
+          "id": "2",
+          "body": "Second comment - 1",
+          "username": "John",
+          "userId": "2",
+          "parentId": null,
+          "createdAt": "2021-08-16T23:00:33.010+02:00"
+        },
+        {
+          "id": "3",
+          "body": "First comment first child - 1",
+          "username": "John",
+          "userId": "2",
+          "parentId": "1",
+          "createdAt": "2021-08-16T23:00:33.010+02:00"
+        },
+        {
+          "id": "4",
+          "body": "Second comment second child - 1",
+          "username": "John",
+          "userId": "2",
+          "parentId": "2",
+          "createdAt": "2003-08-16T23:00:33.010+02:00"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "showCommentsTooltip": true,
+      "showPremiumTooltip": true,
+      "showMembersTooltip": true,
+      "showCarouselItem": false,
+      "tooltipTitles": {
+        "comments": "Comments",
+        "premium": "Premium Content",
+        "members": "Members Content"
+      },
+      "tooltipLinks": {
+        "comments": "https://www.facebook.com/",
+        "premium": "https://www.youtube.com/",
+        "members": "https://www.github.com/"
+      },
+      "views": "432",
+      "commentsCount": "79",
+      "thumbImageLink": "https://i.postimg.cc/XJd0XFst/pexels-andrea-piacquadio-3752834.jpg",
+      "imageAlt": "Blog 2",
+      "tags": ["Travel"],
+      "tagsLinks": ["https://www.linkend.com/"],
+      "date": "September 25, 2022",
+      "minRead": "2 min read",
+      "mainTitle": "Building your audience with subscriber signups",
+      "mainText": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam beatae debitis deleniti distinctio dolor fugiat inventore, iure labore, magnam magni mollitia officiis optio qui quia quisquam sed tempora, voluptate voluptatibus! Ad dolor facere ipsum nisi omnis optio quasi vero? Dicta, doloremque, officiis? Architecto, delectus deleniti eius necessitatibus porro quibusdam sapiente?",
+      "continueReadingText": "Continue Reading...",
+      "continueReadingLink": "https://www.instagram.com/",
+      "authorImage": "https://i.postimg.cc/rpHG1rqt/aveter.png",
+      "authorName": "Sabur Ali",
+      "authorLink": "/about-me",
+      "suggestArticleCategories": ["popular"],
+      "comments": [
+        {
+          "id": "1",
+          "body": "First comment - 2",
+          "username": "Jack",
+          "userId": "1",
+          "parentId": null,
+          "createdAt": "2021-08-16T23:00:33.010+02:00"
+        },
+        {
+          "id": "2",
+          "body": "Second comment - 2",
+          "username": "John",
+          "userId": "2",
+          "parentId": null,
+          "createdAt": "2021-08-16T23:00:33.010+02:00"
+        },
+        {
+          "id": "3",
+          "body": "First comment first child - 2",
+          "username": "John",
+          "userId": "2",
+          "parentId": "1",
+          "createdAt": "2021-08-16T23:00:33.010+02:00"
+        },
+        {
+          "id": "4",
+          "body": "Second comment second child - 2",
+          "username": "John",
+          "userId": "2",
+          "parentId": "2",
+          "createdAt": "2003-08-16T23:00:33.010+02:00"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "showCommentsTooltip": true,
+      "showPremiumTooltip": true,
+      "showMembersTooltip": true,
+      "showCarouselItem": true,
+      "tooltipTitles": {
+        "comments": "Comments",
+        "premium": "Premium Content",
+        "members": "Members Content"
+      },
+      "tooltipLinks": {
+        "comments": "https://www.facebook.com/",
+        "premium": "https://www.youtube.com/",
+        "members": "https://www.github.com/"
+      },
+      "views": "22",
+      "commentsCount": "2",
+      "thumbImageLink": "https://i.postimg.cc/KjTV0y6V/pexels-thisisengineering-3861959.jpg",
+      "imageAlt": "Blog 3",
+      "tags": ["Travel"],
+      "tagsLinks": ["https://www.linkend.com/"],
+      "date": "September 25, 2022",
+      "minRead": "3 min read",
+      "mainTitle": "Building your audience with subscriber signups",
+      "mainText": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam beatae debitis deleniti distinctio dolor fugiat inventore, iure labore, magnam magni mollitia officiis optio qui quia quisquam sed tempora, voluptate voluptatibus! Ad dolor facere ipsum nisi omnis optio quasi vero? Dicta, doloremque, officiis? Architecto, delectus deleniti eius necessitatibus porro quibusdam sapiente?",
+      "continueReadingText": "Continue Reading...",
+      "continueReadingLink": "https://www.instagram.com/",
+      "authorImage": "https://i.postimg.cc/rpHG1rqt/aveter.png",
+      "authorName": "Sabur Ali",
+      "authorLink": "/about-me",
+      "suggestArticleCategories": ["trending", "featured"],
+      "comments": [
+        {
+          "id": "1",
+          "body": "First comment - 3",
+          "username": "Jack",
+          "userId": "1",
+          "parentId": null,
+          "createdAt": "2021-08-16T23:00:33.010+02:00"
+        },
+        {
+          "id": "2",
+          "body": "Second comment - 3",
+          "username": "John",
+          "userId": "2",
+          "parentId": null,
+          "createdAt": "2021-08-16T23:00:33.010+02:00"
+        },
+        {
+          "id": "3",
+          "body": "First comment first child - 3",
+          "username": "John",
+          "userId": "2",
+          "parentId": "1",
+          "createdAt": "2021-08-16T23:00:33.010+02:00"
+        },
+        {
+          "id": "4",
+          "body": "Second comment second child - 3",
+          "username": "John",
+          "userId": "2",
+          "parentId": "2",
+          "createdAt": "2003-08-16T23:00:33.010+02:00"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "showCommentsTooltip": true,
+      "showPremiumTooltip": true,
+      "showMembersTooltip": true,
+      "showCarouselItem": false,
+      "tooltipTitles": {
+        "comments": "Comments",
+        "premium": "Premium Content",
+        "members": "Members Content"
+      },
+      "tooltipLinks": {
+        "comments": "https://www.facebook.com/",
+        "premium": "https://www.youtube.com/",
+        "members": "https://www.github.com/"
+      },
+      "views": "642",
+      "commentsCount": "11",
+      "thumbImageLink": "https://i.postimg.cc/fRqsPM3q/pexels-tim-gouw-52608.jpg",
+      "imageAlt": "Blog 4",
+      "tags": ["Travel", "Enjoy"],
+      "tagsLinks": ["https://www.linkend.com/", "https://www.ok.com/"],
+      "date": "September 25, 2022",
+      "minRead": "4 min read",
+      "mainTitle": "Building your audience with subscriber signups",
+      "mainText": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam beatae debitis deleniti distinctio dolor fugiat inventore, iure labore, magnam magni mollitia officiis optio qui quia quisquam sed tempora, voluptate voluptatibus! Ad dolor facere ipsum nisi omnis optio quasi vero? Dicta, doloremque, officiis? Architecto, delectus deleniti eius necessitatibus porro quibusdam sapiente?",
+      "continueReadingText": "Continue Reading...",
+      "continueReadingLink": "https://www.instagram.com/",
+      "authorImage": "https://i.postimg.cc/rpHG1rqt/aveter.png",
+      "authorName": "Sabur Ali",
+      "authorLink": "/about-me",
+      "suggestArticleCategories": ["trending"],
+      "comments": [
+        {
+          "id": "1",
+          "body": "First comment - 4",
+          "username": "Jack",
+          "userId": "1",
+          "parentId": null,
+          "createdAt": "2021-08-16T23:00:33.010+02:00"
+        },
+        {
+          "id": "2",
+          "body": "Second comment - 4",
+          "username": "John",
+          "userId": "2",
+          "parentId": null,
+          "createdAt": "2021-08-16T23:00:33.010+02:00"
+        },
+        {
+          "id": "3",
+          "body": "First comment first child - 4",
+          "username": "John",
+          "userId": "2",
+          "parentId": "1",
+          "createdAt": "2021-08-16T23:00:33.010+02:00"
+        },
+        {
+          "id": "4",
+          "body": "Second comment second child - 4",
+          "username": "John",
+          "userId": "2",
+          "parentId": "2",
+          "createdAt": "2003-08-16T23:00:33.010+02:00"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "showCommentsTooltip": true,
+      "showPremiumTooltip": true,
+      "showMembersTooltip": true,
+      "showCarouselItem": true,
+      "tooltipTitles": {
+        "comments": "Comments",
+        "premium": "Premium Content",
+        "members": "Members Content"
+      },
+      "tooltipLinks": {
+        "comments": "https://www.facebook.com/",
+        "premium": "https://www.youtube.com/",
+        "members": "https://www.github.com/"
+      },
+      "views": "12",
+      "commentsCount": "15",
+      "thumbImageLink": "https://i.postimg.cc/4xk2NMD4/Screenshot-32.png",
+      "imageAlt": "Blog 5",
+      "tags": ["Travel"],
+      "tagsLinks": ["https://www.linkend.com/"],
+      "date": "September 25, 2022",
+      "minRead": "5 min read",
+      "mainTitle": "Building your audience with subscriber signups",
+      "mainText": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam beatae debitis deleniti distinctio dolor fugiat inventore, iure labore, magnam magni mollitia officiis optio qui quia quisquam sed tempora, voluptate voluptatibus! Ad dolor facere ipsum nisi omnis optio quasi vero? Dicta, doloremque, officiis? Architecto, delectus deleniti eius necessitatibus porro quibusdam sapiente?",
+      "continueReadingText": "Continue Reading...",
+      "continueReadingLink": "https://www.instagram.com/",
+      "authorImage": "https://i.postimg.cc/rpHG1rqt/aveter.png",
+      "authorName": "Sabur Ali",
+      "authorLink": "/about-me",
+      "suggestArticleCategories": ["popular", "featured"],
+      "comments": [
+        {
+          "id": "1",
+          "body": "First comment - 5",
+          "username": "Jack",
+          "userId": "1",
+          "parentId": null,
+          "createdAt": "2021-08-16T23:00:33.010+02:00"
+        },
+        {
+          "id": "2",
+          "body": "Second comment - 5",
+          "username": "John",
+          "userId": "2",
+          "parentId": null,
+          "createdAt": "2021-08-16T23:00:33.010+02:00"
+        },
+        {
+          "id": "3",
+          "body": "First comment first child - 5",
+          "username": "John",
+          "userId": "2",
+          "parentId": "1",
+          "createdAt": "2021-08-16T23:00:33.010+02:00"
+        },
+        {
+          "id": "4",
+          "body": "Second comment second child - 5",
+          "username": "John",
+          "userId": "2",
+          "parentId": "2",
+          "createdAt": "2003-08-16T23:00:33.010+02:00"
+        }
+      ]
+    }
+  ],
+  "followAuthor": {
+    "authorTitle": "About Me",
+    "followUsContent": [
+      {
+        "name": "Sabur Ali",
+        "position": "Editor",
+        "link": "https://www.author.com/",
+        "imageSrc": "https://i.postimg.cc/rpHG1rqt/aveter.png",
+        "imageAlt": "https://i.postimg.cc/rpHG1rqt/aveter.png",
+        "webLink": "https://www.portfolio.com/",
+        "fbLink": "https://www.facebook.com/",
+        "githubLink": "https://www.github.com/",
+        "description": "Hello! My name is Jonathan Doe working from Chile. I create some Ghost and Wordpress themes for differents markets, also, i offer live support via our ticket system. Please Follow Me."
+      }
+    ]
+  }
+}
