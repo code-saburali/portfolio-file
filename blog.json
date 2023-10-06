@@ -7,7 +7,7 @@
   "pageDetailsInfo": {
     "sec_title": "Blog Details",
     "destination": "/blogs",
-    "btn_txt": "Back"
+    "btn_txt": "Blog"
   },
   "suggestArticles": ["popular", "trending", "featured"],
   "articlesItem": [
